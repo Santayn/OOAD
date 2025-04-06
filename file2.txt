@@ -3,3 +3,5 @@ while(a<b)
 	Good night
 	a++
 	}
+
+# DEV1ART'S CERTIFIED COMMIT. KOSOVAPOV HELLO!
